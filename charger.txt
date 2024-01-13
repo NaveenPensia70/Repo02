@@ -1,0 +1,2 @@
+This is charger file. It is used to charge electric appliances.
+
